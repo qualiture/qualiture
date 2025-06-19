@@ -2,8 +2,7 @@
 
 I'm an SAP Experience magician
 
-I design, architect, and develop enterprise-grade applications with the best UX possible.
-I code in TypeScript, JavaScript, Java, and Swift.
+I design, architect, and develop enterprise-grade applications with the best UX possible, using TypeScript, JavaScript, Java, and Swift.
 
 <p>
   <a href="[[https://www.linkedin.com/in/dennis-hartrampf](https://www.linkedin.com/in/robinvanhethof)](https://www.linkedin.com/in/robinvanhethof/)"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
