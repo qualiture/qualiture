@@ -1,6 +1,6 @@
 ## Hi, I'm Robin 👋
 
-I'm an SAP Experience magician
+I'm an **SAP Experience magician**
 
 I design, architect, and develop enterprise-grade applications with the best UX possible, using TypeScript, JavaScript, Java, and Swift.
 
