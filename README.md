@@ -1,6 +1,6 @@
-<img style="float: right; width: 200px;" src="banner.png">
-
 ## Hi, I'm Robin 👋
+
+<img style="float: right; width: 200px;" src="banner.png">
 
 I'm an **SAP Experience magician**
 
