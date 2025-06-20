@@ -1,3 +1,5 @@
+<img style="float: right;" src="banner.png">
+
 ## Hi, I'm Robin 👋
 
 I'm an **SAP Experience magician**
@@ -5,7 +7,7 @@ I'm an **SAP Experience magician**
 I design, architect, and develop enterprise-grade applications with the best UX possible, using TypeScript, JavaScript, Java, and Swift.
 
 <p>
-  <a href="[[https://www.linkedin.com/in/dennis-hartrampf](https://www.linkedin.com/in/robinvanhethof)](https://www.linkedin.com/in/robinvanhethof/)"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/robinvanhethof/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/SAPUI5-Expert-green"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean_Code-Evangelist-blue"></a>
   <a href="#"><img src="https://img.shields.io/badge/UX-Advocate-pink"></a>
