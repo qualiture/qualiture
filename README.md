@@ -1,4 +1,4 @@
-<img style="float: right;" src="banner.png">
+<img style="float: right; width: 200px;" src="banner.png">
 
 ## Hi, I'm Robin 👋
 
